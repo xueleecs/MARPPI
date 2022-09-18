@@ -24,4 +24,4 @@ git@github.com:https://github.com/xueleecs/MARPPI.git
 1. The three protein encoding methods are shown in File AD, File MMI and File PseAAC
 2. The main is sim.py
 
-If you have other questions, please send mail to Xueleecs@gmail.com. And the Wechart is l3983x.
+If you have other questions, please send mail to Xueleecs@gmail.com.
